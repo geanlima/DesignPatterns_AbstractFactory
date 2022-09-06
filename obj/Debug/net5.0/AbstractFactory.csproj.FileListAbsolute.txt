@@ -1,0 +1,16 @@
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\refint\AbstractFactory.dll
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+D:\Gean\Projetos\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
